@@ -2,7 +2,7 @@
 
 <p align="center"><img src="./resources/readme/tribute-page.png" alt="tribute-page-image"></p>
 
-<p id="description">A responsive tribute page to Albert Einstein.</p>
+<p id="description">A responsive tribute page.</p>
 
 ## Table of Contents
 
